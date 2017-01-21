@@ -1,0 +1,91 @@
+20 20
+qvvvvvvvvvvvvvvvvvvv
+vvvvvvvvvvvvvvvvvvvv
+vvvvvvvvvvvvvvvvvvvv
+qqqqqqqqqqqqqqqqqqqq
+vvvvvvvvvvvvvvvvvvvv
+vvvvvvvvvvvvvvvvvvvv
+vvvvvvvvvvvvvvvvvvvv
+vvvvvvvvvvvvvvvvvvvv
+vvvvvvvvvvvvvvvvvvvv
+qqqqqqqqqqqqqqqqqqqq
+vvvvvvvvqvvvvvvvvvvv
+vvvvvvvvqvvvvvvvvvvv
+vvvvvvvvqVvVvvvvvvvv
+vvvvvvvvqvvvvvvvvvvv
+vvvvvvvVqvvvvvvvvvvv
+qqqqqqqqqqqqqqqqqqqq
+vvvvvvvvvvvvvvvvvvvq
+vvvvvvvvvvvvvvvvvvvq
+vvvvvvvvvvvvvvvvvvvq
+vvvvvvvvvvvvvvvvvvvq
+0 0
+
+20 20
+~qqqqqqqqqqqqqqqqqq~
+qqqqqqqqqqqqqqqqqqqq
+~qqqqqqqqqqqqqqqqqq~
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+~qqqqqqqqqqqqqqqqqq~
+2 0
+
+20 20
+@@qqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqq@qqq@qqqqqqq
+qqqqqqqqq@@@qqqqqqqq
+qqqqqqqqq@@@qqqqqqqq
+qqqqqqqqq@@@qqqqqqqq
+qqqqqqqq@qqq@qqqqqqq
+@qqqqqq@qq@qq@qqqqq@
+qqqqqqqqqqqqqqqqqqq@
+qqqqqqqqqq@qqqqqqqqq
+qqqqqqqqqq@qqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+@@qqqqqqqqqqqqqqqqqq
+10 10
+
+20 20
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqVVVVVVVVVV
+qqqqqqqqqqVVVVVVVVVq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqVqqqqqqqqq
+qqqqqqqqqqVqqqqqqqqq
+qqqqqqqqqqVqqqqqqqqq
+qqqqqqqqqqVqqqqqqqqq
+VqqqqqqqqqVVVVVVVVVV
+qqqqqqqqqqVqqqqqqqqq
+VVVVVVqqqqVqqqqqqqqq
+vvvqqqqqqqqqqqqvVVVV
+qvvVqqqqqqqqqqqqqqqq
+vVVqqqqqqqqqqqVVVVVq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+qqqqqqqqqqqqqqqqqqqq
+10 10
