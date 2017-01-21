@@ -1,0 +1,50 @@
+16 31
+effect
+corporate
+current
+class
+university
+might
+added
+making
+archives
+europe
+notes
+output
+wednesday
+there
+contents
+license
+making class 7
+europe current 13
+corporate license 5
+current added 24
+wednesday might 15
+current wednesday 24
+class license 12
+university output 29
+added europe 20
+effect there 12
+making corporate 18
+corporate class 22
+notes current 26
+wednesday archives 11
+archives there 25
+contents notes 12
+europe there 27
+output corporate 9
+contents archives 22
+license archives 9
+added effect 21
+archives corporate 27
+current class 14
+contents output 24
+added archives 11
+corporate current 21
+contents wednesday 4
+contents effect 29
+notes contents 7
+added there 15
+added class 10
+output
+0 0
