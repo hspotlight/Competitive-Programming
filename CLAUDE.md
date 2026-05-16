@@ -57,6 +57,16 @@ java Main < ../input.txt
 | String Processing | Edit distance, anagram, word transformation |
 | Search | BFS, DFS, backtracking |
 
+## Gaps (Not Covered)
+
+| Area | Missing |
+|------|---------|
+| String Algorithms | KMP, Z-algorithm, Aho-Corasick, suffix arrays, Trie |
+| Range Queries | Segment Tree, Fenwick Tree (BIT), Sparse Table |
+| Advanced DP | Interval DP, digit DP, DP on trees/DAGs |
+| Computational Geometry | Convex hull, line intersection, polygon area |
+| Codeforces | Only 8 solutions, all Div 2 A-level (easiest tier) |
+
 ## Conventions
 
 - Inner classes (`Edge`, `Node`, `UnionFind`) are defined inside `Main`
